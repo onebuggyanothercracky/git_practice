@@ -1,3 +1,4 @@
+""" Пример работы с match case. """
 def http_error(status):
     match status:
         case 400:
