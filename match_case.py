@@ -12,3 +12,4 @@ if __name__ == '__main__':
     print(http_error(400))
     print(http_error(418))
     print(http_error(418))
+    print(http_error(422))
